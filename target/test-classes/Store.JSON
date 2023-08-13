@@ -1,0 +1,31 @@
+{
+  "Book":[
+    {
+      "author": "Kapil Sharma",
+      "category": "Reference",
+      "price": 150,
+      "title":"Sayings of the Century"
+     },
+
+    {
+      "author": "Gulati",
+      "category": "Stories",
+      "price": 180,
+      "title":"Satyaprem ki Katha"
+     }, 
+
+    {
+      "author": "Panda",
+      "category": "Katha",
+      "price": 10,
+      "title":"Kings"
+     },
+
+    {
+      "author": "Kundal",
+      "category": "Movies",
+      "price": 300,
+      "title":"Heropanti"
+     }      
+  ]
+}
